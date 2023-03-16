@@ -7,6 +7,7 @@ namespace psiN
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Wo");
+            Console.WriteLine("Novo");
         }
     }
 }
