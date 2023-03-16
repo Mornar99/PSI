@@ -7,5 +7,6 @@ namespace psiN
     class NewClass
     {
         void praznaMetoda() { }
+        //komentar
     }
 }
